@@ -1,0 +1,25 @@
+/*
+79E0EE
+98EECC
+D0F5BE
+FBFFDC
+*/
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FBFFDC;
+}
+.name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color:#79E0EE
+}
